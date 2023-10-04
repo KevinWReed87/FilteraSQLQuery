@@ -42,3 +42,5 @@
 - Complete the SQL query to retrieve data for login attempts that were made on or after '2022-05-09'
 
 <img src="https://i.imgur.com/Rugt436.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
